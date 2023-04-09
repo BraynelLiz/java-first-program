@@ -13,7 +13,7 @@ public class MortgageCalculator {
         calculator.calculateMonthlyPayment();
         System.out.println(calculator.toString());
 
-    }
+    } 
 
     private long loanAmount;
     private int termInYears;
